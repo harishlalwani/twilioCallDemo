@@ -6,7 +6,7 @@
  */
 
 import React from 'react';
-import { Component, useRef, useState } from 'react';
+import { Component, useRef, useState, useEffect } from 'react';
 import {
   SafeAreaView,
   ScrollView,
